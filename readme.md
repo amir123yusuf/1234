@@ -18,3 +18,5 @@ GIT logo:
 
 2. команды "[Markdown](./comands.md)":
 
+3. что такое "[gitignore]()"?
+

@@ -8,4 +8,6 @@
     Git init
 ```
 
+3.Команда [**status**](./status.md)
+
 [⇐назад](readme.md)
