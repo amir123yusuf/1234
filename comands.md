@@ -1,9 +1,11 @@
-1. команда [**add**](./add.md)
-
+1. Команда [**add**](./add.md)
 ```
-Git add
+    Git add
 ```
 
-2.
+2. Команда [**init**](./init.md)
+```
+    Git init
+```
 
 [⇐назад](readme.md)
