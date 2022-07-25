@@ -10,5 +10,9 @@ LICENSE: [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/deed.ru)
 
 ---
 
-[Инструкция](./manual.md) (по которой я учился):
+
+## Содержание
+1. [Инструкция](./manual.md) (по которой я учился):
+
+2. команды [Markdown](./comands.md)
 
